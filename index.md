@@ -5,6 +5,6 @@
 ### Calculator
 OOP Graphical Calculator built in Procesing
 
-![Running Calculator]()
+![Running Calculator](https://github.com/julesAum/programing-portfolio-2023/blob/main/images/Calc.png?raw=true)
 
 [Calculator Source Code]()
