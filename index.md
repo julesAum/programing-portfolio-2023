@@ -14,11 +14,11 @@ OOP Space shotter built in Procesing
 
 ![Running Space Game](https://github.com/julesAum/programing-portfolio-2023/blob/main/images/space.png)
 
-[Space Game Source Code](https://github.com/julesAum/programing-portfolio-2023/tree/main/src/calc)
+[Space Game Source Code](https://github.com/julesAum/programing-portfolio-2023/tree/main/src/snew_start)
 
 ### Drawing
 OOP Drawing tool built in Procesing
 
 ![Running Drawing](https://github.com/julesAum/programing-portfolio-2023/blob/main/images/drawing.png)
 
-[Drawing Source Code](https://github.com/julesAum/programing-portfolio-2023/tree/main/src/calc)
+[Drawing Source Code](https://github.com/julesAum/programing-portfolio-2023/blob/main/src/drawings.pde)
